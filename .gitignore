@@ -1,3 +1,6 @@
 ./idea
 .png
 node_modules
+dalekJSExamples/.idea
+dalekJSExamples/*.png
+dalekJSExamples/node_mudules
