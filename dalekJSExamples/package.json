@@ -1,8 +1,8 @@
 {
   "name": "sampleDalakApp",
   "devDependencies": {
+    "dalek-cli":"*"
     "dalek-browser-chrome": "0.0.10",
     "dalekjs": "0.0.8",
-    "dalek-browser-chrome":"*"
   }
 }
