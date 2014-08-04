@@ -1,5 +1,8 @@
 shellScripts
 ============
+Introduction:-
+  This is a app to fill your timesheet for the week.
+
 Setup:-
   1. Clone the repo.
   2. Do "npm install" in dalekJSExamples folder.
