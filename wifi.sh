@@ -5,7 +5,7 @@ if [ "$1" = "on" ]
 then
     echo "Wifi is ON now"
     sleep 5
-    bash start.sh
+    bash ~/Documents/shellScripts/start.sh
 else
     echo "Closing firefox"
     sleep 1
