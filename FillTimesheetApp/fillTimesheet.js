@@ -71,6 +71,9 @@ module.exports = {
             .type('input[id="tcPage:tcForm:tcBlock:tcPbs:j_id74:0:wedTime"]',"\b\b\b\b9.00")
             .type('input[id="tcPage:tcForm:tcBlock:tcPbs:j_id74:0:thursTime"]',"\b\b\b\b9.00")
             .screenshot('11.png')
+
+            .assert.exists('#submitTCButton')
+//            .click('#submitTCButton')
             .done();
     }
 }
